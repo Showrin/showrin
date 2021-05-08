@@ -1,4 +1,4 @@
-![Showrin Barua | Frontend Software Engineer | Github](./assets/github-cover-image.png)
+[![Showrin Barua | Frontend Software Engineer | Github](./assets/github-cover-image.png)](https://www.showrin.com/)
 
 ### Hi there 👋
 
