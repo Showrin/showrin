@@ -1,3 +1,5 @@
+![Showrin Barua | Frontend Software Engineer | Github](./assets/github-cover-image.png)
+
 ### Hi there 👋
 
 <!--
