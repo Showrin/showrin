@@ -1,4 +1,6 @@
-[![Showrin Barua | Frontend Software Engineer | Github](./assets/images/github-cover-image.png)](https://www.showrin.com/)
+<a href="https://www.showrin.com">
+  <img src="./assets/images/github-cover-image.png" alt="Showrin Barua | Frontend Software Engineer | Github" width="100%">
+</a>
 
 <h2 align="center"> 
 Hi there 
