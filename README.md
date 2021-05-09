@@ -6,6 +6,11 @@ Hi there
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="45px">
 <br>
 You are one of valuable visitors of my profile among
+<br>
+<br>
+<p align="center"> 
+  <img src="https://counter1.stat.ovh/private/freecounterstat.php?c=umuw9j3zty4gkta29b49b59pthdzeagh" border="0" title="free hit counter" alt="free hit counter">
+</p>
 </h2>
 
 <!--
