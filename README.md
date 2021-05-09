@@ -25,40 +25,16 @@ And I love to share my small bits of knowledge with the people to acquire the bi
 
 Having an open discussion on any tech topic with a cup of coffee ☕ is my all-time favorite 💜💜 Wanna have a discussion with me?
 
-### Connect with me on:
+## Connect with me on:
 
-<a href="https://www.showrin.com" target="blank">
-  <img align="center" src="./assets/social-icons/showrin.svg" alt="Showrin | Frontend Software Engineer | Portfolio" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://www.linkedin.com/in/dev-showrin/" target="blank">
-  <img align="center" src="./assets/social-icons/linkedin.svg" alt="Showrin | Frontend Software Engineer | Linkedin" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://stackoverflow.com/users/11747697/showrin-barua" target="blank">
-  <img align="center" src="./assets/social-icons/stackoverflow.svg" alt="Showrin | Frontend Software Engineer | Stack Overflow" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://medium.com/@showrin96" target="blank">
-  <img align="center" src="./assets/social-icons/medium.svg" alt="Showrin | Frontend Software Engineer | Medium" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://codepen.io/dev-showrin" target="blank">
-  <img align="center" src="./assets/social-icons/codepen.svg" alt="Showrin | Frontend Software Engineer | Codepen" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://web.whatsapp.com/send?phone=8801521328875" target="blank">
-  <img align="center" src="./assets/social-icons/whatsapp.svg" alt="Showrin | Frontend Software Engineer | Whatsapp" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://www.facebook.com/showrinbarua.hridoy" target="blank">
-  <img align="center" src="./assets/social-icons/facebook.svg" alt="Showrin | Frontend Software Engineer | Facebook" height="45" width="45" />
-  &nbsp; 
-</a>
-<a href="https://github.com/Showrin" target="blank">
-  <img align="center" src="./assets/social-icons/github.svg" alt="Showrin | Frontend Software Engineer | Github" height="45" width="45" />
-</a>
-
+<a href="https://www.showrin.com" target="blank"><img align="center" src="./assets/social-icons/showrin.svg" alt="Showrin | Frontend Software Engineer | Portfolio" height="45" width="45" /></a>&nbsp; 
+<a href="https://www.linkedin.com/in/dev-showrin/" target="blank"><img align="center" src="./assets/social-icons/linkedin.svg" alt="Showrin | Frontend Software Engineer | Linkedin" height="45" width="45" /></a>&nbsp; 
+<a href="https://stackoverflow.com/users/11747697/showrin-barua" target="blank"><img align="center" src="./assets/social-icons/stackoverflow.svg" alt="Showrin | Frontend Software Engineer | Stack Overflow" height="45" width="45" /></a>&nbsp; 
+<a href="https://medium.com/@showrin96" target="blank"><img align="center" src="./assets/social-icons/medium.svg" alt="Showrin | Frontend Software Engineer | Medium" height="45" width="45" /></a>&nbsp; 
+<a href="https://codepen.io/dev-showrin" target="blank"><img align="center" src="./assets/social-icons/codepen.svg" alt="Showrin | Frontend Software Engineer | Codepen" height="45" width="45" /></a>&nbsp; 
+<a href="https://web.whatsapp.com/send?phone=8801521328875" target="blank"><img align="center" src="./assets/social-icons/whatsapp.svg" alt="Showrin | Frontend Software Engineer | Whatsapp" height="45" width="45" /></a>&nbsp; 
+<a href="https://www.facebook.com/showrinbarua.hridoy" target="blank"><img align="center" src="./assets/social-icons/facebook.svg" alt="Showrin | Frontend Software Engineer | Facebook" height="45" width="45" /></a>&nbsp; 
+<a href="https://github.com/Showrin" target="blank"><img align="center" src="./assets/social-icons/github.svg" alt="Showrin | Frontend Software Engineer | Github" height="45" width="45" /></a>
 <!-- * 🔭 I’m currently working on ...
 
 * 🌱 I’m currently learning ...
