@@ -3,11 +3,11 @@
 </a>
 
 <h1 align="center"> 
-  Hi there 
+  Hi There 
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
-  Thanks!!! for being one of valuable visitors of my profile among
+  Thanks 💙 For Being One of Valuable Visitors of My Profile Among
   <br>
   <br>
   <p align="center">
