@@ -1,4 +1,4 @@
-[![Showrin Barua | Frontend Software Engineer | Github](./assets/github-cover-image.png)](https://www.showrin.com/)
+[![Showrin Barua | Frontend Software Engineer | Github](./assets/images/github-cover-image.png)](https://www.showrin.com/)
 
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
 
