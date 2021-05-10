@@ -7,7 +7,7 @@
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
   <br>
-  Thanks 💙 For Being One of Valuable Visitors of My Profile Among
+  Thanks 💙 For Being A Valuable Visitor of My Profile Among
   <br>
   <br>
   <p align="center">
@@ -15,7 +15,7 @@
   </p>
 </h1>
 
-Hope you are doing good. Glad to see you here 😊 
+Glad to see you here 😊 Hope you are doing good.
 
 I would like to introduce myself as a self taught 🎓 **Frontend Software Engineer** 💻💻💻 
 
@@ -23,7 +23,7 @@ I always try to connect design with code and make something useful. And then I l
 
 And I love to share my small bits of knowledge with the people to acquire the big one 🎉🎉
 
-Having an open discussion on any tech topic with a cup of coffee ☕ is my all-time favorite 💜💜 Wanna have a discussion with me?
+Having an open discussion on any tech topic with a cup of coffee ☕ is my all-time favorite 💜💜 Wanna have a discussion with me? Let's connect
 
 <br>
 
@@ -47,3 +47,41 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
 * 💬 Ask me about **JS, React, CSS related queestions**. I would be happy to share my knowledge.
 * 🐱🐶 I **love cats and dogs**. Please don't hurt them.
+
+<br>
+
+## I'm Skilled At:
+
+<a href="https://www.javascript.com/"><img align="center" src="./assets/skill-and-tools/javascript.svg" alt="Showrin | Skill | Javascript" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt="Showrin | Skill | React JS" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt="Showrin | Skill | Next JS" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt="Showrin | Skill | Ant Design" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="Showrin | Skill | Storybook" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+
+<br>
+
+<a href="https://jestjs.io/"><img align="center" src="./assets/skill-and-tools/jest.svg" alt="Showrin | Skill | Jest" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://enzymejs.github.io/enzyme/"><img align="center" src="./assets/skill-and-tools/enzyme.png" alt="Showrin | Skill | Enzyme" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt="Showrin | Skill | ES Lint" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt="Showrin | Skill | Ant Design" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+
+<br>
+
+<a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt="Showrin | Skill | HTML" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt="Showrin | Skill | CSS" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://sass-lang.com/"><img align="center" src="./assets/skill-and-tools/sass.svg" alt="Showrin | Skill | Sass" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://getbootstrap.com/"><img align="center" src="./assets/skill-and-tools/bootstrap.svg" alt="Showrin | Skill | Bootstrap" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://stylelint.io/"><img align="center" src="./assets/skill-and-tools/stylelint.svg" alt="Showrin | Skill | Stylelint" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt="Showrin | Skill | Git" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+
+<br>
+
+## Platforms I Use:
+
+<a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt="Showrin | Platform | Github" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" height="30" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt="Showrin | Platform | Netlify" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt="Showrin | Platform | NPM" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt="Showrin | Platform | Yarn" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt="Showrin | Platform | VS Code" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
