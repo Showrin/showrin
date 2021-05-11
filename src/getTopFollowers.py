@@ -46,7 +46,7 @@ if __name__ == "__main__":
 
     html = "<table>\n"
 
-    for i in range(min(len(followers), 14)):
+    for i in range(min(len(followers), 7)):
         login = followers[i][1]
         id = followers[i][2]
         name = followers[i][3]
@@ -56,7 +56,7 @@ if __name__ == "__main__":
             html += "  <tr>\n"
         html += f'''    <td align="center">
       <a href="https://github.com/{login}">
-        <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px;" alt="{login}"/>
+        <img src="https://avatars2.githubusercontent.com/u/{id}" width="100px" alt="{login}"/>
       </a>
       <br />
       <a href="https://github.com/{login}">{name}</a>
