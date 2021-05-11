@@ -98,4 +98,13 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 [![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%8D%20Yes%2C%20agreed.%20I%20love%20documentations.)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%8D%20Yes%2C%20agreed.%20I%20love%20documentations./vote)
 [![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%95%20Confused.%20Partially%20agreed.)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%95%20Confused.%20Partially%20agreed./vote)
-[![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20/vote) 
+[![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20/vote)
+
+<br>
+
+## My Latest blogs:
+
+If you love to read blogs, then you can check my latest blogs. 😊 I wrote them with love 💙 for you.
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
