@@ -17,13 +17,9 @@
 
 Glad to see you here 😊 Hope you are doing good.
 
-#### I would like to introduce myself as a self taught 🎓 **Frontend Software Engineer** 💻 💻 💻 
+### I would like to introduce myself as a self taught 🎓 `Frontend Software Engineer` 💻 💻 💻 
 
-I always try to connect design with code and make something useful. And then I like to say, **"Hello World! I've made something for you"** 😌
-
-And I love to share my small bits of knowledge with the people to acquire the big one 🎉 🎉
-
-Having an open discussion on any tech topic with a cup of coffee ☕ is my all-time favorite 💜 💜 Wanna have a discussion with me? Let's connect
+I always try to connect design with code and make something useful. And then I like to say, **"Hello World! I've made something for you"** 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one 🎉 🎉 **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite 💜 💜 Wanna have a discussion with me? Let's connect 🚀 🚀 🚀
 
 <br>
 
@@ -42,11 +38,11 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 ## 📓 Some info about me
 
-* 🔭 I’m currently working on building **my own design system (ZeroD)**. 
+* 🔭 I’m currently working on building **my own design system**. 
 * 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
 * 💬 Ask me about **JS, React, CSS related queestions**. I would be happy to share my knowledge.
-* 🐱 🐶 I **love cats and dogs**. Please don't hurt them.
+* 🐱 🐶 I **love cats and dogs**. Please don't hurt them 🙏 🙏
 
 <br>
 
