@@ -1,5 +1,5 @@
 <a href="https://www.showrin.com">
-  <img src="./assets/images/github-cover-image.png" alt="Showrin Barua | Frontend Software Engineer | Github" width="100%">
+  <img src="./assets/images/github-cover-image.png" alt="Showrin Barua | Frontend Software Engineer | Github" title="Showrin Barua | Frontend Software Engineer | Click the image to go 👉👉 www.showrin.com for more detail" width="100%">
 </a>
 
 <h1 align="center"> 
