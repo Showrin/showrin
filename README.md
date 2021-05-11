@@ -56,14 +56,14 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 <a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt="Showrin | Skill | React JS" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt="Showrin | Skill | Next JS" height="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt="Showrin | Skill | Ant Design" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="Showrin | Skill | Storybook" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt="Showrin | Skill | Jquery" height="30" /></a>&nbsp; &nbsp; &nbsp; 
 
 <br>
 
 <a href="https://jestjs.io/"><img align="center" src="./assets/skill-and-tools/jest.svg" alt="Showrin | Skill | Jest" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://enzymejs.github.io/enzyme/"><img align="center" src="./assets/skill-and-tools/enzyme.png" alt="Showrin | Skill | Enzyme" height="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt="Showrin | Skill | ES Lint" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt="Showrin | Skill | Ant Design" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="Showrin | Skill | Storybook" height="38" /></a>&nbsp; &nbsp; &nbsp; 
 
 <br>
 
@@ -76,12 +76,16 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## Platforms I Use:
+## Platforms I've Used:
 
 <a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt="Showrin | Platform | Github" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" height="30" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://www.netlify.com/"><img align="center" src="./assets/skill-and-tools/netlify.svg" alt="Showrin | Platform | Netlify" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt="Showrin | Platform | NPM" height="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt="Showrin | Platform | Yarn" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" height="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt="Showrin | Platform | VS Code" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
+
+<br>
+ 
+<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="Showrin | Platform | PlayformSH" height="38" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" height="38" /></a>&nbsp; &nbsp; &nbsp; 
