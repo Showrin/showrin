@@ -1,8 +1,8 @@
 <a href="https://www.showrin.com">
-  <img src="./assets/images/github-cover-image.png" alt="Showrin Barua | Frontend Software Engineer | Github" title="Showrin Barua | Frontend Software Engineer | Click the image to go 👉👉 www.showrin.com for more detail" width="100%">
+  <img src="./assets/images/github-cover-image.png" alt="Showrin Barua | Frontend Software Engineer | Github" title="Showrin Barua | Frontend Software Engineer | Click the image to go 👉 👉 www.showrin.com for more detail" width="100%">
 </a>
 
-<h1 align="center"> 
+<h2 align="center"> 
   Hi There 
   <br>
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="60px">
@@ -13,17 +13,17 @@
   <p align="center">
   <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
-</h1>
+</h2>
 
 Glad to see you here 😊 Hope you are doing good.
 
-I would like to introduce myself as a self taught 🎓 **Frontend Software Engineer** 💻💻💻 
+#### I would like to introduce myself as a self taught 🎓 **Frontend Software Engineer** 💻 💻 💻 
 
 I always try to connect design with code and make something useful. And then I like to say, **"Hello World! I've made something for you"** 😌
 
-And I love to share my small bits of knowledge with the people to acquire the big one 🎉🎉
+And I love to share my small bits of knowledge with the people to acquire the big one 🎉 🎉
 
-Having an open discussion on any tech topic with a cup of coffee ☕ is my all-time favorite 💜💜 Wanna have a discussion with me? Let's connect
+Having an open discussion on any tech topic with a cup of coffee ☕ is my all-time favorite 💜 💜 Wanna have a discussion with me? Let's connect
 
 <br>
 
@@ -46,7 +46,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 * 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
 * 👯 I’m looking to collaborate on any **JS/React related Open Source Project**.
 * 💬 Ask me about **JS, React, CSS related queestions**. I would be happy to share my knowledge.
-* 🐱🐶 I **love cats and dogs**. Please don't hurt them.
+* 🐱 🐶 I **love cats and dogs**. Please don't hurt them.
 
 <br>
 
@@ -54,20 +54,20 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <a href="https://www.javascript.com/"><img align="center" src="./assets/skill-and-tools/javascript.svg" alt="Showrin | Skill | Javascript" title="Javascript" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt="Showrin | Skill | React JS" title="React JS" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt="Showrin | Skill | Next JS" title="Next JS" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://nextjs.org/"><img align="center" src="./assets/skill-and-tools/nextjs.svg" alt="Showrin | Skill | Next JS" title="Next JS" height="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://ant.design/"><img align="center" src="./assets/skill-and-tools/ant-design.png" alt="Showrin | Skill | Ant Design" title="Ant Design" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt="Showrin | Skill | Jquery" title="Jquery" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://code.jquery.com/"><img align="center" src="./assets/skill-and-tools/jquery.svg" alt="Showrin | Skill | Jquery" title="Jquery" height="20" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://jestjs.io/"><img align="center" src="./assets/skill-and-tools/jest.svg" alt="Showrin | Skill | Jest" title="Jest" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://enzymejs.github.io/enzyme/"><img align="center" src="./assets/skill-and-tools/enzyme.png" alt="Showrin | Skill | Enzyme" title="Enzyme" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://enzymejs.github.io/enzyme/"><img align="center" src="./assets/skill-and-tools/enzyme.png" alt="Showrin | Skill | Enzyme" title="Enzyme" height="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://eslint.org/"><img align="center" src="./assets/skill-and-tools/eslint.svg" alt="Showrin | Skill | ES Lint" title="ES Lint" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="Showrin | Skill | Storybook" title="Storybook" height="30" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://storybook.js.org/"><img align="center" src="./assets/skill-and-tools/storybook.png" alt="Showrin | Skill | Storybook" title="Storybook" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 
 <a href="https://en.wikipedia.org/wiki/HTML"><img align="center" src="./assets/skill-and-tools/html.svg" alt="Showrin | Skill | HTML" title="HTML" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://en.wikipedia.org/wiki/CSS"><img align="center" src="./assets/skill-and-tools/css.svg" alt="Showrin | Skill | CSS" title="CSS" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://sass-lang.com/"><img align="center" src="./assets/skill-and-tools/sass.svg" alt="Showrin | Skill | Sass" title="Sass" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://getbootstrap.com/"><img align="center" src="./assets/skill-and-tools/bootstrap.svg" alt="Showrin | Skill | Bootstrap" title="Bootstrap" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://stylelint.io/"><img align="center" src="./assets/skill-and-tools/stylelint.svg" alt="Showrin | Skill | Stylelint" title="Stylelint" height="45" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt="Showrin | Skill | Git" title="Git" height="45" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://stylelint.io/"><img align="center" src="./assets/skill-and-tools/stylelint.svg" alt="Showrin | Skill | Stylelint" title="Stylelint" height="35" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://git-scm.com/"><img align="center" src="./assets/skill-and-tools/git.svg" alt="Showrin | Skill | Git" title="Git" height="35" /></a>&nbsp; &nbsp; &nbsp; 
 
 <br>
 
@@ -79,8 +79,8 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 <a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/npm.svg" alt="Showrin | Platform | NPM" title="NPM" height="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://classic.yarnpkg.com/en/"><img align="center" src="./assets/skill-and-tools/yarn.svg" alt="Showrin | Platform | Yarn" title="Yarn" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://code.visualstudio.com/"><img align="center" src="./assets/skill-and-tools/visual-studio-code.svg" alt="Showrin | Platform | VS Code" title="VS Code" height="35" width="35" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="Showrin | Platform | PlayformSH" title="PlayformSH" height="30" /></a>&nbsp; &nbsp; &nbsp; 
-<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" title="Chromatic" height="30" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://platform.sh/"><img align="center" src="./assets/skill-and-tools/platform-sh.jpg" alt="Showrin | Platform | PlayformSH" title="PlayformSH" height="25" /></a>&nbsp; &nbsp; &nbsp; 
+<a href="https://www.npmjs.com/"><img align="center" src="./assets/skill-and-tools/chromatic.png" alt="Showrin | Platform | Chromatic" title="Chromatic" height="25" /></a>&nbsp; &nbsp; &nbsp; 
 
 <br>
 
