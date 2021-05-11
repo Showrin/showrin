@@ -11,7 +11,7 @@
   <br>
   <br>
   <p align="center">
-  <img src="https://counter1.stat.ovh/private/freecounterstat.php?c=umuw9j3zty4gkta29b49b59pthdzeagh" border="0" title="free hit counter" alt="free hit counter">
+  <img src="https://profile-counter.glitch.me/showrin/count.svg" border="0" title="free hit counter" alt="free hit counter">
   </p>
 </h1>
 
