@@ -131,5 +131,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 # My Dev Stats:
 
-![Showrin's GitHub stats](https://github-readme-stats.vercel.app/api?username=showrin&count_private=true)
-![Top Languages used by showrin](https://github-readme-stats.vercel.app/api/top-langs/?username=Showrin&layout=compact)
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=showrin&count_private=true" height="180em">&nbsp;&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Showrin&layout=compact" height="180em">
+</p>
