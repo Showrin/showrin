@@ -115,6 +115,8 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 
 ## 📉 My Stackoverflow Stats:
 
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=11747697">
+
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
 <!-- STACKOVERFLOW:START -->
@@ -127,10 +129,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 <br>
 
-<p align="center">
-  <a href="https://stackoverflow.com/users/11747697/showrin-barua">
-  <img src="https://github-readme-stackoverflow.vercel.app/?userID=11747697">
-  </a>
+<p>
 </p>
 
 <br>
