@@ -96,9 +96,17 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 ***Please, click one of the following 👇 bars (as your opinion) and join the open discussion. Thank you*** 😊 💙
 
-[![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%8D%20Yes%2C%20agreed.%20I%20love%20documentations.)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%8D%20Yes%2C%20agreed.%20I%20love%20documentations./vote)
-[![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%95%20Confused.%20Partially%20agreed.)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%95%20Confused.%20Partially%20agreed./vote)
-[![](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20)](https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20/vote)
+<p align="center">
+  <a href="https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%8D%20Yes%2C%20agreed.%20I%20love%20documentations./vote">
+  <img src="https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%8D%20Yes%2C%20agreed.%20I%20love%20documentations.">
+  </a>
+  <a href="https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%95%20Confused.%20Partially%20agreed./vote">
+  <img src="https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%95%20Confused.%20Partially%20agreed.">
+  </a>
+  <a href="https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20/vote">
+  <img src="https://api.gh-polls.com/poll/01F5DYZAPHS131Q0RXD31W4ZC9/%F0%9F%98%91%20No%20way%20">
+  </a>
+</p>
 
 <br>
 
