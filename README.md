@@ -27,7 +27,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## Connect with me on:
+# Connect with me on:
 
 <a href="https://www.showrin.com" target="blank"><img align="center" src="./assets/social-icons/showrin.svg" alt="Showrin | Frontend Software Engineer | Portfolio" height="45" width="45" /></a>&nbsp; 
 <a href="https://www.linkedin.com/in/dev-showrin/" target="blank"><img align="center" src="./assets/social-icons/linkedin.svg" alt="Showrin | Frontend Software Engineer | Linkedin" height="45" width="45" /></a>&nbsp; 
@@ -40,7 +40,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## Some info about me
+# Some info about me
 
 * 🔭 I’m currently working on building **my own design system (ZeroD)**. 
 * 🌱 I’m currently learning **Advance Topics of React, NextJS and Javascript**.
@@ -50,7 +50,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## I'm Skilled At:
+# I'm Skilled At:
 
 <a href="https://www.javascript.com/"><img align="center" src="./assets/skill-and-tools/javascript.svg" alt="Showrin | Skill | Javascript" title="Javascript" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://reactjs.org/"><img align="center" src="./assets/skill-and-tools/react.svg" alt="Showrin | Skill | React JS" title="React JS" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
@@ -76,7 +76,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## Platforms I've Used:
+# Platforms I've Used:
 
 <a href="https://github.com/Showrin"><img align="center" src="./assets/skill-and-tools/github.svg" alt="Showrin | Platform | Github" title="Github" height="45" width="45" /></a>&nbsp; &nbsp; &nbsp; 
 <a href="https://vercel.com/"><img align="center" src="./assets/skill-and-tools/vercel.png" alt="Showrin | Platform | Vercel" title="Vercel" height="25" /></a>&nbsp; &nbsp; &nbsp; 
@@ -92,7 +92,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## I believe the written documents 📘 are the best resources for learning. Do you agree with me?
+# I believe the written documents 📘 are the best resources for learning. Do you agree with me?
 
 ***Please, click one of the following 👇 bars (as your opinion) and join the open discussion. Thank you*** 😊 💙
 
@@ -110,7 +110,7 @@ Having an open discussion on any tech topic with a cup of coffee ☕ is my all-t
 
 <br>
 
-## My Latest blogs:
+# My Latest blogs:
 
 If you love to read blogs, then you can check my latest blogs. 😊 I wrote them with love 💙 for you.
 
@@ -123,7 +123,7 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 
 <br>
 
-## My Stackoverflow Stats:
+# My Stackoverflow Stats:
 
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
