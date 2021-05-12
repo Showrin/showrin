@@ -216,7 +216,14 @@ While building this readme, I used some cool open source contents. I want to tha
 <a href="https://iconscout.com/contributors/maninderkaur">**Maninder Kaur**</a>
 they've made some amazing icons in the <a href="https://iconscout.com">**Iconscout**</a>.
 
-**@ryanlanciaux, @Apex, @gautamkrishnar, @ouuan, @DenverCoder1, @omidnikrah, @anuraghazra** - they've built some awesome plug n play projects that can make any profile look cool.
+<a href="https://github.com/ryanlanciaux">**@ryanlanciaux**</a>, 
+<a href="https://github.com/apex">**@Apex**</a>, 
+<a href="https://github.com/gautamkrishnar">**@gautamkrishnar**</a>, 
+<a href="https://github.com/ouuan">**@ouuan**</a>, 
+<a href="https://github.com/DenverCoder1">**@DenverCoder1**</a>, 
+<a href="https://github.com/omidnikrah">**@omidnikrah**</a>, 
+<a href="https://github.com/anuraghazra">**@anuraghazra**</a>, 
+<a href="https://github.com/kmhmubin">**@kmhmubin**</a> - they wrote some useful blogs and built some awesome plug n play projects that can make any profile look cool.
 
 Respect for you all 🏆 Take love brothes ❤️ ❤️ ❤️
 
