@@ -100,7 +100,7 @@ I always try to connect design with code and make something useful. And then I l
 
 <br>
 
-## ✒️ [My Latest blogs](https://showrin.com):
+## ✒️ My Latest blogs:
 
 If you love to read blogs, then you can check my latest blogs. 😊 I wrote them with love 💙 for you.
 
