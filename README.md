@@ -115,7 +115,7 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 
 ## 📉 My Stackoverflow Stats:
 
-<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=11747697">
+<img align="right" src="https://github-readme-stackoverflow.vercel.app/?userID=11747697" alt="Showrin's Stackoverflow Stats">
 
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
@@ -137,9 +137,9 @@ I always try to give solution to others' problems. And that's how I learnt the m
 ## 📊 My Dev Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=showrin&count_private=true" height="180em">&nbsp;&nbsp;
-  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=Showrin&layout=compact" height="180em">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showrin" height="180em">
+  <img src="https://github-readme-stats-showrin.vercel.app/api?username=showrin&count_private=true" alt="Showrin's Github Commit Stats" height="180em">&nbsp;&nbsp;
+  <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=Showrin&layout=compact" alt="Showrin's Github Top Languages Stats" height="180em">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=showrin" alt="Showrin's Github Streak Stats" height="180em">
 </p>
 
 <br>
