@@ -100,7 +100,7 @@ I always try to connect design with code and make something useful. And then I l
 
 <br>
 
-## ✒️ My Latest blogs:
+## ✒️ [My Latest blogs](https://showrin.com):
 
 If you love to read blogs, then you can check my latest blogs. 😊 I wrote them with love 💙 for you.
 
@@ -201,3 +201,22 @@ I always try to give solution to others' problems. And that's how I learnt the m
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
+
+<br>
+
+## 🎖️ Credits
+
+While building this readme, I used some cool open source contents. I want to thank those great people who made these amazing open source contents. I think everyone should do this.
+
+<a href="https://iconscout.com/contributors/pixel-icons">**Pixel Icons**</a>, 
+<a href="https://iconscout.com/contributors/jagathish">**Jagathish Saravanan**</a>, 
+<a href="https://iconscout.com/contributors/icon-mafia" target="_blank">**Icon Mafia**</a>, 
+<a href="https://iconscout.com/contributors/icon-54" target="_blank">**Icon 54**</a>, 
+<a href="https://iconscout.com/contributors/icon-mafia" target="_blank">**Icon Mafia**</a>, 
+<a href="https://iconscout.com/contributors/maninderkaur">**Maninder Kaur**</a>
+they've made some amazing icons in the <a href="https://iconscout.com">**Iconscout**</a>.
+
+**@ryanlanciaux, @Apex, @gautamkrishnar, @ouuan, @DenverCoder1, @omidnikrah, @anuraghazra** - they've built some awesome plug n play projects that can make any profile look cool.
+
+Respect for you all 🏆 Take love brothes ❤️ ❤️ ❤️
+
