@@ -120,11 +120,11 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Showrin Barua for Node.js, PostgreSQL error: no pg_hba.conf entry for host](https://stackoverflow.com/questions/25000183/node-js-postgresql-error-no-pg-hba-conf-entry-for-host/67576189#67576189)
 - [Answer by Showrin Barua for How to achieve change style for a class in Salesforce trailhead](https://stackoverflow.com/questions/67571015/how-to-achieve-change-style-for-a-class-in-salesforce-trailhead/67571126#67571126)
 - [Answer by Showrin Barua for Get Only a Part of the Url with Javascript](https://stackoverflow.com/questions/67550476/get-only-a-part-of-the-url-with-javascript/67550668#67550668)
 - [Answer by Showrin Barua for Destructuring map of maps not working with React](https://stackoverflow.com/questions/67536487/destructuring-map-of-maps-not-working-with-react/67536587#67536587)
 - [Answer by Showrin Barua for How to re-arrange list made up of divs by class identifiers](https://stackoverflow.com/questions/67492827/how-to-re-arrange-list-made-up-of-divs-by-class-identifiers/67493313#67493313)
-- [Answer by Showrin Barua for How to splice the specific index using the IndexOf method of javascript](https://stackoverflow.com/questions/67490092/how-to-splice-the-specific-index-using-the-indexof-method-of-javascript/67490352#67490352)
 <!-- STACKOVERFLOW:END -->
 
 <br>
