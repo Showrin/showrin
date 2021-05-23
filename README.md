@@ -120,11 +120,11 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
 <!-- STACKOVERFLOW:START -->
+- [Answer by Showrin Barua for How to change a single value in a property in a nested object in an array](https://stackoverflow.com/questions/67655907/how-to-change-a-single-value-in-a-property-in-a-nested-object-in-an-array/67656000#67656000)
 - [Answer by Showrin Barua for React - How to prevent re-rendering of all the input fields when input changes](https://stackoverflow.com/questions/67653394/react-how-to-prevent-re-rendering-of-all-the-input-fields-when-input-changes/67653653#67653653)
 - [Answer by Showrin Barua for I am trying to update my number with current value get from textinput in JavaScript](https://stackoverflow.com/questions/67638430/i-am-trying-to-update-my-number-with-current-value-get-from-textinput-in-javascr/67638555#67638555)
 - [Answer by Showrin Barua for Append datatypes in array of dictionary (javascript)](https://stackoverflow.com/questions/67623143/append-datatypes-in-array-of-dictionary-javascript/67623306#67623306)
 - [Answer by Showrin Barua for TypeError: Cannot read property 'component' based on id](https://stackoverflow.com/questions/67603414/typeerror-cannot-read-property-component-based-on-id/67603540#67603540)
-- [Answer by Showrin Barua for Uncaught SyntaxError: missing : after property id](https://stackoverflow.com/questions/67589742/uncaught-syntaxerror-missing-after-property-id/67589791#67589791)
 <!-- STACKOVERFLOW:END -->
 
 <br>
