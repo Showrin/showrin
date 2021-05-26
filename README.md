@@ -185,18 +185,18 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/jamilxt">jamilxt</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Waqar-107">
+        <img src="https://avatars2.githubusercontent.com/u/24852360" width="100px" alt="Waqar-107"/>
+      </a>
+      <br />
+      <a href="https://github.com/Waqar-107">Waqar Hassan Khan</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/omamazainab">
         <img src="https://avatars2.githubusercontent.com/u/37713288" width="100px" alt="omamazainab"/>
       </a>
       <br />
       <a href="https://github.com/omamazainab">Omama Zainab</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/imalisiddique">
-        <img src="https://avatars2.githubusercontent.com/u/4035727" width="100px" alt="imalisiddique"/>
-      </a>
-      <br />
-      <a href="https://github.com/imalisiddique">Ali Siddique</a>
     </td>
   </tr>
 </table>
