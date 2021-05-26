@@ -137,7 +137,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 ## 📊 My Dev Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats-showrin.vercel.app/api?username=showrin&count_private=true&&show_icons=true" alt="Showrin's Github Commit Stats" height="180em">&nbsp;&nbsp;
+  <img src="https://github-readme-stats-showrin.vercel.app/api?username=showrin&include_all_commits=true&count_private=true&show_icons=true" alt="Showrin's Github Commit Stats" height="180em">&nbsp;&nbsp;
   <img src="https://github-readme-stats-showrin.vercel.app/api/top-langs/?username=Showrin&layout=compact" alt="Showrin's Github Top Languages Stats" height="180em">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=showrin" alt="Showrin's Github Streak Stats" height="180em">
 </p>
