@@ -120,11 +120,11 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
 <!-- STACKOVERFLOW:START -->
+- [How to optimise the "input" event in Javascript](https://stackoverflow.com/questions/68079105/how-to-optimise-the-input-event-in-javascript)
 - [Answer by Showrin Barua for Javascript split() word counting issue](https://stackoverflow.com/questions/68048612/javascript-split-word-counting-issue/68048712#68048712)
 - [Answer by Showrin Barua for SetTimeout Loader Animation Site](https://stackoverflow.com/questions/67828780/settimeout-loader-animation-site/67828816#67828816)
 - [Answer by Showrin Barua for Creating one single string from multiple values of array in javaScript](https://stackoverflow.com/questions/67728379/creating-one-single-string-from-multiple-values-of-array-in-javascript/67728452#67728452)
 - [Answer by Showrin Barua for Filter object property from an array of objects in javascript](https://stackoverflow.com/questions/67716448/filter-object-property-from-an-array-of-objects-in-javascript/67716565#67716565)
-- [Answer by Showrin Barua for clearTimeout() doesn't work in javascript](https://stackoverflow.com/questions/67695701/cleartimeout-doesnt-work-in-javascript/67695800#67695800)
 <!-- STACKOVERFLOW:END -->
 
 <br>
