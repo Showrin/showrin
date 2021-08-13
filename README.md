@@ -154,7 +154,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
         <img src="https://avatars2.githubusercontent.com/u/31297202" width="100px" alt="lengjibo"/>
       </a>
       <br />
-      <a href="https://github.com/lengjibo">冷逸</a>
+      <a href="https://github.com/lengjibo">lenyi</a>
     </td>
     <td align="center">
       <a href="https://github.com/sabinlungudotcpp">
