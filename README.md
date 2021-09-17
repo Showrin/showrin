@@ -157,11 +157,11 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/lengjibo">lenyi</a>
     </td>
     <td align="center">
-      <a href="https://github.com/sabinlungudotcpp">
-        <img src="https://avatars2.githubusercontent.com/u/29733613" width="100px" alt="sabinlungudotcpp"/>
+      <a href="https://github.com/sabin2000pro">
+        <img src="https://avatars2.githubusercontent.com/u/29733613" width="100px" alt="sabin2000pro"/>
       </a>
       <br />
-      <a href="https://github.com/sabinlungudotcpp">Sabin Constantin Lungu (2B || !2B)</a>
+      <a href="https://github.com/sabin2000pro">Sabin Constantin Lungu</a>
     </td>
     <td align="center">
       <a href="https://github.com/ShakilAhmedShaj">
