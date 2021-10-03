@@ -192,11 +192,11 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/jamilxt">jamilxt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/mohammadeunus">
-        <img src="https://avatars2.githubusercontent.com/u/38430781" width="100px" alt="mohammadeunus"/>
+      <a href="https://github.com/Waqar-107">
+        <img src="https://avatars2.githubusercontent.com/u/24852360" width="100px" alt="Waqar-107"/>
       </a>
       <br />
-      <a href="https://github.com/mohammadeunus">mohammad eunus</a>
+      <a href="https://github.com/Waqar-107">Waqar Hassan Khan</a>
     </td>
   </tr>
 </table>
