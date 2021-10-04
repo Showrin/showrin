@@ -171,6 +171,13 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/Amir-Mohamad">Amir-Mohamad</a>
     </td>
     <td align="center">
+      <a href="https://github.com/Tim2906">
+        <img src="https://avatars2.githubusercontent.com/u/69757707" width="100px" alt="Tim2906"/>
+      </a>
+      <br />
+      <a href="https://github.com/Tim2906">Tim</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/ShakilAhmedShaj">
         <img src="https://avatars2.githubusercontent.com/u/15268903" width="100px" alt="ShakilAhmedShaj"/>
       </a>
@@ -190,13 +197,6 @@ I always try to give solution to others' problems. And that's how I learnt the m
       </a>
       <br />
       <a href="https://github.com/jamilxt">jamilxt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Waqar-107">
-        <img src="https://avatars2.githubusercontent.com/u/24852360" width="100px" alt="Waqar-107"/>
-      </a>
-      <br />
-      <a href="https://github.com/Waqar-107">Waqar Hassan Khan</a>
     </td>
   </tr>
 </table>
