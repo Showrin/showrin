@@ -121,7 +121,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
 
 <!-- STACKOVERFLOW:START -->
 - [How to make the event handler non-blocking in Javascript [closed]](https://stackoverflow.com/questions/68079105/how-to-make-the-event-handler-non-blocking-in-javascript)
-- [Answer by Showrin Barua for Javascript split() word counting issue](https://stackoverflow.com/questions/68048612/javascript-split-word-counting-issue/68048712#68048712)
+- [Answer by Showrin Barua for Javascript split&lpar;&rpar; word counting issue](https://stackoverflow.com/questions/68048612/javascript-split-word-counting-issue/68048712#68048712)
 - [Answer by Showrin Barua for SetTimeout Loader Animation Site](https://stackoverflow.com/questions/67828780/settimeout-loader-animation-site/67828816#67828816)
 - [Answer by Showrin Barua for Creating one single string from multiple values of array in javaScript](https://stackoverflow.com/questions/67728379/creating-one-single-string-from-multiple-values-of-array-in-javascript/67728452#67728452)
 - [Answer by Showrin Barua for Filter object property from an array of objects in javascript](https://stackoverflow.com/questions/67716448/filter-object-property-from-an-array-of-objects-in-javascript/67716565#67716565)
