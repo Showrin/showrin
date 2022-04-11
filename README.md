@@ -155,7 +155,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
         <img src="https://avatars2.githubusercontent.com/u/31297202" width="100px" alt="lengjibo"/>
       </a>
       <br />
-      <a href="https://github.com/lengjibo">lenyi</a>
+      <a href="https://github.com/lengjibo">deax</a>
     </td>
     <td align="center">
       <a href="https://github.com/sabin2000pro">
@@ -193,11 +193,11 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/jamilxt">jamilxt</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Waqar-107">
-        <img src="https://avatars2.githubusercontent.com/u/24852360" width="100px" alt="Waqar-107"/>
+      <a href="https://github.com/jspw">
+        <img src="https://avatars2.githubusercontent.com/u/40170955" width="100px" alt="jspw"/>
       </a>
       <br />
-      <a href="https://github.com/Waqar-107">Waqar Hassan Khan</a>
+      <a href="https://github.com/jspw">MH Shifat</a>
     </td>
   </tr>
 </table>
