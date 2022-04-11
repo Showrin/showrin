@@ -105,10 +105,11 @@ I always try to connect design with code and make something useful. And then I l
 If you love to read blogs, then you can check my latest blogs. 😊 I wrote them with love 💙 for you.
 
 <!-- BLOG-POST-LIST:START -->
-- [The Myth You Should Know About &amp;&amp; &lpar;Short Circuit Syntax&rpar; in JSX](https://gopensource.com/the-myth-you-should-know-about-short-circuit-syntax-in-jsx-f61ffc3bfa5e?source=rss-fe97be716b8a------2)
-- [Flexbox — Everything You Need to Know &lpar;Part: 1 — Flex-Container&rpar;](https://blog.prototypr.io/flexbox-everything-you-need-to-know-part-1-flex-container-246e996ffe4d?source=rss-fe97be716b8a------2)
-- [5 Principles of UX Design](https://uxplanet.org/5-principles-of-ux-design-d1579e7267db?source=rss-fe97be716b8a------2)
-- [Gestalt Principles: Secrets of Hacking Human Brain by Design](https://medium.com/ieee-sb-kuet/gestalt-principles-secrets-of-hacking-human-brain-by-design-85401fe6880d?source=rss-fe97be716b8a------2)
+- [Smashing JS Like Never: How JS Codes Get Executed &lpar;with illustrations&rpar;](https://showrin.com/blog/smashing-js-like-never-how-js-codes-get-executed-with-illustrations)
+- [Case Study: Mistake with react keys can kill the performance](https://showrin.com/blog/case-study-mistake-with-react-keys-can-kill-the-performance)
+- [Extensive Javascript Roadmap](https://showrin.com/blog/extensive-javascript-roadmap)
+- [React Roadmap](https://showrin.com/blog/react-roadmap)
+- [The Myth You Should Know About &amp;&amp; &lpar;Short Circuit Syntax&rpar; in JSX](https://showrin.com/blog/the-myth-you-should-know-about-short-circuit-syntax-in-jsx)
 <!-- BLOG-POST-LIST:END -->
 
 <br>
