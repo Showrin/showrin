@@ -105,7 +105,6 @@ I always try to connect design with code and make something useful. And then I l
 If you love to read blogs, then you can check my latest blogs. 😊 I wrote them with love 💙 for you.
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Learn Redux by Building Redux](https://showrin.com/blog/learn-redux-by-building-redux)
 - [Smashing JS Like Never: How JS Codes Get Executed &lpar;with illustrations&rpar;](https://showrin.com/blog/smashing-js-like-never-how-js-codes-get-executed-with-illustrations)
 - [Case Study: Mistake with react keys can kill the performance](https://showrin.com/blog/case-study-mistake-with-react-keys-can-kill-the-performance)
