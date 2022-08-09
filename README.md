@@ -122,7 +122,6 @@ If you love to read blogs, then you can check my latest blogs. 😊 I wrote them
 I always try to give solution to others' problems. And that's how I learnt the most basic things. 😊 Help people, and this will help you back. 💯 🎉
 
 <!-- STACKOVERFLOW:START -->
-
 - [Answer by Showrin Barua for parent display flex row child div expand text](https://stackoverflow.com/questions/70970971/parent-display-flex-row-child-div-expand-text/70971111#70971111)
 - [How to make the event handler non-blocking in Javascript [closed]](https://stackoverflow.com/questions/68079105/how-to-make-the-event-handler-non-blocking-in-javascript)
 - [Answer by Showrin Barua for Javascript split&lpar;&rpar; word counting issue](https://stackoverflow.com/questions/68048612/javascript-split-word-counting-issue/68048712#68048712)
