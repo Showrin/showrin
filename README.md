@@ -15,11 +15,15 @@
   </p>
 </h2>
 
-Glad to see you here 😊 Hope you are doing good.
+Welcome! It's great to have you here 😊 I hope you're doing well.
 
 ### I would like to introduce myself as a self taught 🎓 `Frontend Software Engineer` 💻 💻 💻
 
-I always try to connect design with code and make something useful. And then I like to say, **"Hello World! I've made something for you"** 😌 And I love to **`share my small bits of knowledge`** with the people to acquire the big one 🎉 🎉 **`Having an open discussion on any tech topic with a cup of coffee`** ☕ is my all-time favorite 💜 💜 Wanna have a discussion with me? Let's connect 🚀 🚀 🚀
+As a self-taught Frontend Software Engineer, my passion lies in connecting design with code to create something practical and useful. Whenever I complete a project, I love to say **"Hello World! I've made something for you"** 😌
+
+I enjoy sharing my knowledge with others and believe that even small bits of knowledge can lead to big breakthroughs. One of my favorite things to do is to **engage in an open discussion on any tech topic over a cup of coffee** ☕.
+
+If you're interested in connecting and having a discussion with me, I'm always ready to chat! Let's connect 🚀 🚀 🚀.
 
 <br>
 
