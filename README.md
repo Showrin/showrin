@@ -169,18 +169,18 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/Amir-Mohamad">Amir-Mohamad</a>
     </td>
     <td align="center">
-      <a href="https://github.com/01JAMIL">
-        <img src="https://avatars2.githubusercontent.com/u/82522763" width="100px" alt="01JAMIL"/>
-      </a>
-      <br />
-      <a href="https://github.com/01JAMIL">01JAMIL</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/thehassantahir">
         <img src="https://avatars2.githubusercontent.com/u/54933420" width="100px" alt="thehassantahir"/>
       </a>
       <br />
       <a href="https://github.com/thehassantahir">Hassan Tahir</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/01JAMIL">
+        <img src="https://avatars2.githubusercontent.com/u/82522763" width="100px" alt="01JAMIL"/>
+      </a>
+      <br />
+      <a href="https://github.com/01JAMIL">01JAMIL</a>
     </td>
     <td align="center">
       <a href="https://github.com/jaamaalxyz">
@@ -197,11 +197,11 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/sry309">Draven</a>
     </td>
     <td align="center">
-      <a href="https://github.com/ShakilAhmedShaj">
-        <img src="https://avatars2.githubusercontent.com/u/15268903" width="100px" alt="ShakilAhmedShaj"/>
+      <a href="https://github.com/jamilxt">
+        <img src="https://avatars2.githubusercontent.com/u/18072164" width="100px" alt="jamilxt"/>
       </a>
       <br />
-      <a href="https://github.com/ShakilAhmedShaj">Shakil Ahmed Shaj</a>
+      <a href="https://github.com/jamilxt">jamilxt</a>
     </td>
   </tr>
 </table>
