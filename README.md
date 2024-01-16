@@ -34,8 +34,6 @@ If you're interested in connecting and having a discussion with me, I'm always r
 <a href="https://stackoverflow.com/users/11747697/showrin-barua" target="blank"><img align="center" src="./assets/social-icons/stackoverflow.svg" alt="Showrin | Frontend Software Engineer | Stack Overflow" height="45" width="45" /></a>&nbsp;
 <a href="https://medium.com/@showrin96" target="blank"><img align="center" src="./assets/social-icons/medium.svg" alt="Showrin | Frontend Software Engineer | Medium" height="45" width="45" /></a>&nbsp;
 <a href="https://codepen.io/dev-showrin" target="blank"><img align="center" src="./assets/social-icons/codepen.svg" alt="Showrin | Frontend Software Engineer | Codepen" height="45" width="45" /></a>&nbsp;
-<a href="https://web.whatsapp.com/send?phone=8801521328875" target="blank"><img align="center" src="./assets/social-icons/whatsapp.svg" alt="Showrin | Frontend Software Engineer | Whatsapp" height="45" width="45" /></a>&nbsp;
-<a href="https://www.facebook.com/showrinbarua.hridoy" target="blank"><img align="center" src="./assets/social-icons/facebook.svg" alt="Showrin | Frontend Software Engineer | Facebook" height="45" width="45" /></a>&nbsp;
 <a href="https://github.com/Showrin" target="blank"><img align="center" src="./assets/social-icons/github.svg" alt="Showrin | Frontend Software Engineer | Github" height="45" width="45" /></a>
 
 <br>
