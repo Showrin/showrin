@@ -188,18 +188,18 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/thehassantahir">Hassan Tahir</a>
     </td>
     <td align="center">
-      <a href="https://github.com/jaamaalxyz">
-        <img src="https://avatars2.githubusercontent.com/u/20262255" width="100px" alt="jaamaalxyz"/>
-      </a>
-      <br />
-      <a href="https://github.com/jaamaalxyz">Md. Jamal Uddin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/jamilxt">
         <img src="https://avatars2.githubusercontent.com/u/18072164" width="100px" alt="jamilxt"/>
       </a>
       <br />
       <a href="https://github.com/jamilxt">jamilxt</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/jaamaalxyz">
+        <img src="https://avatars2.githubusercontent.com/u/20262255" width="100px" alt="jaamaalxyz"/>
+      </a>
+      <br />
+      <a href="https://github.com/jaamaalxyz">Md. Jamal Uddin</a>
     </td>
   </tr>
 </table>
