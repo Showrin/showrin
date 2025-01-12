@@ -153,6 +153,13 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <table>
   <tr>
     <td align="center">
+      <a href="https://github.com/esin">
+        <img src="https://avatars2.githubusercontent.com/u/69767" width="100px" alt="esin"/>
+      </a>
+      <br />
+      <a href="https://github.com/esin">Andrey Esin</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jaglux12">
         <img src="https://avatars2.githubusercontent.com/u/83303348" width="100px" alt="jaglux12"/>
       </a>
@@ -193,13 +200,6 @@ I always try to give solution to others' problems. And that's how I learnt the m
       </a>
       <br />
       <a href="https://github.com/jamilxt">jamilxt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/jaamaalxyz">
-        <img src="https://avatars2.githubusercontent.com/u/20262255" width="100px" alt="jaamaalxyz"/>
-      </a>
-      <br />
-      <a href="https://github.com/jaamaalxyz">Md. Jamal Uddin</a>
     </td>
   </tr>
 </table>
