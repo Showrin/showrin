@@ -160,6 +160,13 @@ I always try to give solution to others' problems. And that's how I learnt the m
       <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
+      <a href="https://github.com/standardgalactic">
+        <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px" alt="standardgalactic"/>
+      </a>
+      <br />
+      <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/jaglux12">
         <img src="https://avatars2.githubusercontent.com/u/83303348" width="100px" alt="jaglux12"/>
       </a>
@@ -193,13 +200,6 @@ I always try to give solution to others' problems. And that's how I learnt the m
       </a>
       <br />
       <a href="https://github.com/jamilxt">jamilxt</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/thehassantahir">
-        <img src="https://avatars2.githubusercontent.com/u/54933420" width="100px" alt="thehassantahir"/>
-      </a>
-      <br />
-      <a href="https://github.com/thehassantahir">Hassan Tahir</a>
     </td>
   </tr>
 </table>
