@@ -153,18 +153,18 @@ I always try to give solution to others' problems. And that's how I learnt the m
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/esin">
-        <img src="https://avatars2.githubusercontent.com/u/69767" width="100px" alt="esin"/>
-      </a>
-      <br />
-      <a href="https://github.com/esin">Andrey Esin</a>
-    </td>
-    <td align="center">
       <a href="https://github.com/standardgalactic">
         <img src="https://avatars2.githubusercontent.com/u/43516554" width="100px" alt="standardgalactic"/>
       </a>
       <br />
       <a href="https://github.com/standardgalactic">Cogito Ergo Sum</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/esin">
+        <img src="https://avatars2.githubusercontent.com/u/69767" width="100px" alt="esin"/>
+      </a>
+      <br />
+      <a href="https://github.com/esin">Andrey Esin</a>
     </td>
     <td align="center">
       <a href="https://github.com/jaglux12">
