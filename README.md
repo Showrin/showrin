@@ -199,7 +199,7 @@ I always try to give solution to others' problems. And that's how I learnt the m
         <img src="https://avatars2.githubusercontent.com/u/18072164" width="100px" alt="jamilxt"/>
       </a>
       <br />
-      <a href="https://github.com/jamilxt">jamilxt</a>
+      <a href="https://github.com/jamilxt">Md Jamilur Rahman</a>
     </td>
   </tr>
 </table>
